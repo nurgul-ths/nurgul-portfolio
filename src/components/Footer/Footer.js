@@ -26,7 +26,7 @@ import {
 const Footer = () => {
   return (
     <Section id="about">
-      <Img src="images/csr.png"></Img>
+      <Img src="images/avataaars.png"></Img>
       <SectionDivider></SectionDivider>
       <br />
       <br />

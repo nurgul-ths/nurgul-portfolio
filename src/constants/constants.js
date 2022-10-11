@@ -20,7 +20,7 @@ export const projects = [
     title: "Note AId",
     description:
       "Worked in team of 7 to develop an AI powered note summarizer app to assist students with time management. Created PDF generation functionality using Flask/Python, dockerized the application to easily ship code and maintain full control over infrastructure. We also won the Best Overall Project award :)",
-    image: "/images/note.png",
+    image: "note.png",
     visit: "https://github.com/nurgul-ths/NoteAId",
     id: 2,
   },
@@ -28,7 +28,7 @@ export const projects = [
     title: "CFSM Research Project",
     description:
       "Worked in a PhD candidates’ virtual lab to assist in research of performing advanced Computational Fluid Dynamics simulations of wind turbines. Utilized Ubuntu and Linux OS, command line interface and executed tasks through bash scripting",
-    image: "/images/research.avif",
+    image: "research.avif",
     visit: "https://taylorinstitute.ucalgary.ca/sites/default/files/Content/Programs/PURE/2021_PURE_Book_of_Abstracts.pdf",
     id: 3,
   },
@@ -36,7 +36,7 @@ export const projects = [
     title: "Microsensor Glasses",
     description:
       "Led a team of 4 to implement glasses using HC-SR04 ultrasonic microsensors, a speaker and an AVR microcontroller. Our device emits an alerting sound when it detects an obstacle within 4 meters",
-    image: "/images/300.jpg",
+    image: "300.jpg",
     visit: "https://docs.google.com/document/d/1EOZ4SHM4TQkL1MhsNOkGRx-POLIQpGnb/edit",
     id: 4,
   },
@@ -44,7 +44,7 @@ export const projects = [
     title: "Tech Start UCalgary Website",
     description:
       "Collaboratively interacted in a software team of 8, building club website at http://techstartucalgary.com. Built the fully responsive Resources page of the website, closely worked with the About page’s animations working on React packages ",
-    image: "/images/tsu.png",
+    image: "tsu.png",
     visit: "https://techstartucalgary.com/",
     id: 5,
   },
@@ -52,7 +52,7 @@ export const projects = [
     title: "CSR Project",
     description:
       "During my SWE internship at Arcurve, I participated in a Corporate Social Responsibility project, where we raised more than $2000 for EducationMatters charity organization!",
-    image: "/images/csr.png",
+    image: "csr.png",
     visit: "https://www.arcurvecsr.com/",
     id: 6,
   },
@@ -60,7 +60,7 @@ export const projects = [
     title: "Flappy Bird App",
     description:
       "Currently building a Flappy Bird clone mobile app with Flutter & Dart for Android",
-    image: "/images/flappy.png",
+    image: "flappy.png",
     visit: "https://github.com/nurgul-ths/",
     id: 7,
   },
