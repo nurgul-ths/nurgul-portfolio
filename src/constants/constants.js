@@ -3,7 +3,7 @@ export const projects = [
     title: "CRUD User App",
     description:
       "Using NodeJS, Express and MongoDB, programmed an application implementing CRUD operations, built REST API in a client-server system, created the entire home page and user login/sign in pages ",
-    image: "images/crud.png",
+    image: "./images/crud.png",
 
     visit: "https://github.com/nurgul-ths/CRUDOperationsApp",
     id: 0,
