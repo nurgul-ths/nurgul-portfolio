@@ -50,4 +50,4 @@ export const projects = [
   },
 ];
 
-export const pfp = "/images/avataaars.png";
+export const pfp = "../../public/images/avataaars.png";
