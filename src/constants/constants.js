@@ -3,7 +3,7 @@ export const projects = [
     title: "CRUD User App",
     description:
       "Using NodeJS, Express and MongoDB, programmed an application implementing CRUD operations, built REST API in a client-server system, created the entire home page and user login/sign in pages ",
-    image: "./images/crud.png",
+    image: "crud.png",
 
     visit: "https://github.com/nurgul-ths/CRUDOperationsApp",
     id: 0,
@@ -12,7 +12,7 @@ export const projects = [
     title: "YYSecret",
     description:
       "Led a project workflow of 7 members to develop a cross-platform web application to explore tourist attractions in downtown Calgary; built pages for local businesses to publish their events. We placed 3-rd at YYCHacks 2022!",
-    image: "/images/hackathon.png",
+    image: "hackathon.png",
     visit: "https://github.com/nurgul-ths/Attractech",
     id: 1,
   },
