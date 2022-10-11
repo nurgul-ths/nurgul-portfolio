@@ -48,6 +48,22 @@ export const projects = [
     visit: "https://techstartucalgary.com/",
     id: 5,
   },
+  {
+    title: "CSR Project",
+    description:
+      "During my SWE internship at Arcurve, I participated in a Corporate Social Responsibility project, where we raised more than $2000 for EducationMatters charity organization!",
+    image: "/images/csr.png",
+    visit: "https://www.arcurvecsr.com/",
+    id: 6,
+  },
+  {
+    title: "Flappy Bird App",
+    description:
+      "Currently building a Flappy Bird clone mobile app with Flutter & Dart for Android",
+    image: "/images/flappy.png",
+    visit: "https://github.com/nurgul-ths/",
+    id: 7,
+  },
 ];
 
 export const pfp = "../../public/images/avataaars.png";
