@@ -67,7 +67,7 @@ const Technologies = () => (
           <Progress>
             <ProgressBar90></ProgressBar90>
           </Progress>
-          NodeJS
+          Node.js, Next.js
           <Progress>
             <ProgressBar70></ProgressBar70>
           </Progress>
