@@ -3,7 +3,7 @@ export const projects = [
     title: "CRUD User App",
     description:
       "Using NodeJS, Express and MongoDB, programmed an application implementing CRUD operations, built REST API in a client-server system, created the entire home page and user login/sign in pages ",
-    image: "crud.png",
+    image: "images/crud.png",
 
     visit: "https://github.com/nurgul-ths/CRUDOperationsApp",
     id: 0,
@@ -28,7 +28,7 @@ export const projects = [
     title: "CFSM Research Project",
     description:
       "Worked in a PhD candidates’ virtual lab to assist in research of performing advanced Computational Fluid Dynamics simulations of wind turbines. Utilized Ubuntu and Linux OS, command line interface and executed tasks through bash scripting",
-    image: "research.avif",
+    image: "images/research.avif",
     visit: "https://taylorinstitute.ucalgary.ca/sites/default/files/Content/Programs/PURE/2021_PURE_Book_of_Abstracts.pdf",
     id: 3,
   },
